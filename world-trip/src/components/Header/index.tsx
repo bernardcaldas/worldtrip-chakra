@@ -16,17 +16,17 @@ export default function Header(){
                 h="100"
                 mx="auto"
                 w="100%"
-                maxWidth="1280"
+                maxWidth="1440"
                 alignItems="center"
                 templateColumns="repeat(3fr, 1)"
-                justifyContent="center">
+                justifyContent="center"
+                >
 
                     <Image 
                     src="/LogoTravel.svg"
                     alt="logo travel logo"
                     gridColumn="2"
                     />
-
 
               </Grid>
 
